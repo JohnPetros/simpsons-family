@@ -22,7 +22,7 @@
 
 ## 🖥️ Projeto
 
-Aplicativo mobile sobre os integrantes da família Simpson, apresentando informações descritivas da cada personagem (nome, gênero, idade e ocupação). O app somente possui 2 telas: uma que contém os cards referentes a cada Simpson, e outra que exibe os dados do personagem escolhido pelo usuário, que são renderizados dinamicamente. Este projeto foi desenvolvido como dever de casa para a disciplina de programação mobile na Etec com o intuito de treinar o conceito de flat list em React Native, que nada mais é um componente próprio para renderização de listas
+Aplicativo mobile sobre os integrantes da família Simpson, apresentando informações descritivas da cada personagem (nome, gênero, idade e ocupação). O app somente possui 2 telas: uma que contém os cards referentes a cada Simpson, e outra que exibe os dados do personagem escolhido pelo usuário, que são renderizados dinamicamente. Este projeto foi desenvolvido como dever de casa para a disciplina de programação mobile na Etec com o intuito de treinar o conceito de FlatList em React Native, que nada mais é um componente próprio para renderização de listas
 
 ### Demonstração
 <div align="center">
